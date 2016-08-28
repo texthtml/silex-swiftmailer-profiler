@@ -16,18 +16,13 @@
         }
     ],
     "require": {
-        "silex/silex": "^2.0@dev",
-        "silex/web-profiler": "^2.0@dev",
+        "silex/silex": "^2.0",
+        "silex/web-profiler": "^2.0",
         "symfony/swiftmailer-bundle": "^2.3"
     },
     "autoload": {
         "psr-4": {
             "TH\\SilexSwiftmailerProfiler\\": "src/"
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.0.x-dev"
         }
     }
 }
