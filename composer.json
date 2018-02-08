@@ -7,7 +7,7 @@
         "mail",
         "swiftmailer"
     ],
-    "license": "aGPLv3",
+    "license": "AGPL-3.0-or-later",
     "type": "library",
     "authors": [
         {
